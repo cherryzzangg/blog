@@ -8,17 +8,16 @@ permalink: /404
 
 **[<< 返回博客 Back to my blog](/)**
 
-**我的学术主页 My academic website**
+**学术主页 My academic website**
 
 * [Homepage](https://dongleizhang.com)
 * [About](https://dongleizhang.com/about/)
 * [Research](https://dongleizhang.com/research/)
 * [Miscellaneous](https://dongleizhang.com/misc/)
 
-**我的社交媒体 Find me around the web**
+**发现更多 Find me around the web**
 
-* [Twitter](https://twitter.com/donglei_zhang)
-* [LinkedIn](https://www.linkedin.com/in/dongleizhang)
-* [GitHub](https://github.com/dongleizhang)
-* [Zhihu](https://www.zhihu.com/people/ZhangDylan/answers)
-* [Douban](https://www.douban.com/people/179242800)
+　<i class="fa fa-fw fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/donglei_zhang)
+　<i class="fa fa-fw fa-weibo"></i>&nbsp;&nbsp;[微博](https://www.weibo.com/prczdl)
+　<i class="iconfont icon-zhihu"></i>&nbsp;&nbsp;[知乎](https://www.zhihu.com/people/ZhangDylan)
+　<i class="fa fa-fw fa-github"></i>&nbsp;&nbsp;[GitHub](https://github.com/dongleizhang)

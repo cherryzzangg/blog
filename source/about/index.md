@@ -17,9 +17,9 @@ comments:
 
 ### 在这里发现更多
 　　<i class="fa fa-fw fa-weixin"></i>&nbsp;&nbsp;微信订阅：<a data-fancybox="gallery" href="https://banbanramble-1256060851.cos.ap-shanghai.myqcloud.com/img/wechat_platform.jpg">班班碎碎念</a>
-　　<i class="iconfont icon-zhihu"></i>&nbsp;&nbsp;知乎：[回答](https://www.zhihu.com/people/ZhangDylan/answers)、[专栏](https://zhuanlan.zhihu.com/econramble)、[Live](https://www.zhihu.com/lives/922106856669868032)
-　　<i class="iconfont icon-douban"></i>&nbsp;&nbsp;豆瓣：[读书](https://book.douban.com/people/179242800)、[电影](https://movie.douban.com/people/179242800)、[游戏](https://www.douban.com/people/179242800/games)
 　　<i class="fa fa-fw fa-twitter"></i>&nbsp;&nbsp;Twitter：[@donglei_zhang](https://twitter.com/donglei_zhang)
+　　<i class="fa fa-fw fa-weibo"></i>&nbsp;&nbsp;微博：[@班班_Dylan](https://www.weibo.com/prczdl)
+　　<i class="iconfont icon-zhihu"></i>&nbsp;&nbsp;知乎：[@班班](https://www.zhihu.com/people/ZhangDylan)
 　　<i class="fa fa-fw fa-github"></i>&nbsp;&nbsp;GitHub：[@dongleizhang](https://github.com/dongleizhang)
 
 ### 著作权与免责声明
