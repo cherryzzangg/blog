@@ -2,8 +2,8 @@
 title: Websites for Economic Study & Research
 categories: 学术
 tags:
-  - economics
-  - research
+  - 经济学
+  - 网站
 abbrlink: ceda0f99
 date: 2017-02-21 18:30:00
 mathjax:

@@ -2,8 +2,7 @@
 title: A quote in economics
 categories: 碎碎念
 tags:
-  - economics
-  - quote
+  - 经济学
 abbrlink: a20577b1
 date: 2015-12-05 20:08:00
 comments:
