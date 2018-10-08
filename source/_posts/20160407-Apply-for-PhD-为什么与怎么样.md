@@ -1,8 +1,7 @@
 ---
 title: Apply for PhD：为什么与怎么样
-categories: 札记
+categories: 笔记
 tags:
-  - 知乎
   - PhD
   - CUHK
   - 留学

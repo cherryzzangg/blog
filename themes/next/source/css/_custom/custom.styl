@@ -272,6 +272,14 @@ a#hexo-douban-tab1.hexo-douban-tab.hexo-douban-active, a#hexo-douban-tab2.hexo-d
   }
 }
 
+//调整分类页面缩进以配合日期格式长度
+//修改 /themes/next/layout/_macro/post-collapse.swig 中 {{ date(post.date, 'YYYY-MM-DD') }} 
+.posts-collapse .post-meta {
+  left:15px;
+}
+
+.posts-collapse .post-title {
+  margin-left: 90px}
 
 //页码栏
 .pagination, .pagination .prev, .pagination .next, .pagination .page-number {

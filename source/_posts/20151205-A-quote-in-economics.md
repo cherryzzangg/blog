@@ -1,6 +1,6 @@
 ---
 title: A quote in economics
-categories: 碎碎念
+categories: 笔记
 tags:
   - 经济学
 abbrlink: a20577b1

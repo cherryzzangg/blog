@@ -3,7 +3,7 @@ title: 'Crowdfunding and Online Social Capital: A Research Idea'
 categories: 学术
 tags:
   - 众筹
-  - 社交网络
+  - 社交
 abbrlink: 3b22d99a
 date: 2016-12-20 01:35:21
 mathjax:

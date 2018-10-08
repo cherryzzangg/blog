@@ -3,7 +3,7 @@ title: Top Journals in Economics
 categories: 学术
 tags:
   - 经济学
-  - 杂志
+  - 论文
 abbrlink: 40e31eef
 date: 2017-02-20 09:30:00
 mathjax:
