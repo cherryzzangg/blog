@@ -90,9 +90,9 @@ douban:
   book:
     title: '阅读记录'
     quote: '形上谓道兮，形下谓器。'
-  movie:
-    title: '观影打卡'
-    quote: '礼主别异兮，乐主和同。'
+  #movie:
+  #  title: '观影打卡'
+  #  quote: '礼主别异兮，乐主和同。'
   #game:
   #  title: '游戏''
   #  quote:

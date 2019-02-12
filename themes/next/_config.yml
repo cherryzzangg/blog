@@ -123,7 +123,7 @@ menu:
   archives: /archives/ || bookmark
   photos: /photos || camera-retro
   books: /books || book
-  movies: /movies || film
+  #movies: /movies || film
   #games: /games || gamepad
   about: /about/ || user
   #schedule: /schedule/ || calendar
